@@ -1,7 +1,7 @@
 # website-boilerplate
-My current boilerplate for making a simple website.
+[![devDependency Status](https://david-dm.org/parkin/website-boilerplate/dev-status.svg)](https://david-dm.org/parkin/website-boilerplate#info=devDependencies)
 
-## Using the boilerplate
+My current boilerplate for making a simple website.
 
 ### Dependencies
 
