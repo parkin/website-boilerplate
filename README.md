@@ -1,4 +1,6 @@
 # website-boilerplate
+[![devDependency Status](https://david-dm.org/parkin/website-boilerplate/dev-status.svg)](https://david-dm.org/parkin/website-boilerplate#info=devDependencies)
+
 My current boilerplate for making a simple website.
 
 ### Dependencies
