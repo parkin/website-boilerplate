@@ -1,8 +1,6 @@
 # website-boilerplate
 My current boilerplate for making a simple website.
 
-## Using the boilerplate
-
 ### Dependencies
 
 The only development dependency is [nodejs](https://nodejs.org/).
