@@ -1,0 +1,13 @@
+{
+  "name": "website-boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/parkin/website-boilerplate",
+  "authors": [
+    "Will <wmparkin@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "skeleton": "dhg/Skeleton#2.0.4"
+  },
+  "private": true
+}

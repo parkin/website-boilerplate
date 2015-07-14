@@ -1,0 +1,31 @@
+{
+  "name": "website-boilerplate",
+  "version": "0.0.1",
+  "description": "My current boilerplate for making a simple static website.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/parkin/website-boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parkin/website-boilerplate"
+  },
+  "keywords": [
+    "boilerplate",
+    "static",
+    "website"
+  ],
+  "author": "Will Parkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parkin/website-boilerplate/issues"
+  },
+  "private": true,
+  "devDependencies": {
+    "bower": "^1.4.1"
+  },
+  "scripts": {
+    "postinstall": "npm run bower-install",
+    "bower-install": "./node_modules/.bin/bower install"
+  }
+}
